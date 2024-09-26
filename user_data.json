@@ -1,0 +1,28 @@
+[
+  {
+    "user_details": [
+      {
+        "name": "Rahul",
+        "contact": "1234567",
+        "depart": "DevOps",
+        "email": "rahul@gmail.com",
+        "password": "1234",
+        "position": "Intern"
+      },
+      {
+        "name": "Manas",
+        "contact": "223456666",
+        "depart": "DevOps",
+        "email": "Manas@gmail.com",
+        "password": "44444",
+        "position": "Intern"
+      }
+    ],
+    "admin_details": [
+      {
+        "email": "rahul@gmail.com",
+        "password": "1234"
+      }
+    ]
+  }
+]
